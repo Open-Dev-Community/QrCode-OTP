@@ -1,10 +1,7 @@
 # QrCode-OTP
 
-</p>
-<a href="https://github.com/Open-Dev-Community/QrCode-OTP/contributors" alt="Contributors">
-        <img src="https://img.shields.io/github/contributors/badges/shields" /></a>
 
-</p>
+[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/Open-Dev-Community/QrCode-OTP)
 
 # Running
 - Clone this repository
