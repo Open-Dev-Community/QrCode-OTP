@@ -1,6 +1,2 @@
-pyOpenSSL
 qrcode==6.1
-pytest-shutil
-secrets==1.0.2
-hashlib-additional
 pyotp==2.4.0

@@ -4,6 +4,8 @@ import shutil
 import secrets
 import string
 from pyotp import TOTP
+import random
+
 
 
 images = 'images'
@@ -17,15 +19,14 @@ except:
 if not os.path.isdir(images):
     os.makedirs(images, exist_ok=True)
 
-# User Key
+# User Key	
 def user_gen():
-    '''
-    Returns a randomly-chosen element from a non-empty sequence to manage a basic level of security.
-    '''
-    alphabet = string.ascii_letters
-    unique_key = ''.join(secrets.choice(alphabet) for i in range(60))
-    return unique_key
-
+	"""
+	Returns a randomly-chosen element from a non-empty sequence to manage a basic level of security
+	"""
+	x = ''.join(random.choices(string.ascii_letters, k = 10))
+	return x
+	
 
 # function to timebased-OTP
 def gen_rolling_code(key):
