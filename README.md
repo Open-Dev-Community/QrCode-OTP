@@ -1,6 +1,8 @@
 # QrCode-OTP
 
 
+[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/Open-Dev-Community/QrCode-OTP)
+
 # Running
 - Clone this repository
 - `Python3.6+` must be installed on the system
