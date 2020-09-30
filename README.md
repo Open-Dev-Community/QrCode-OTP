@@ -1,7 +1,16 @@
 # QrCode-OTP
-
-
-[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/Open-Dev-Community/QrCode-OTP)
+<p align = "center">
+    <img alt="OpenDevCommunity" src="https://img.shields.io/badge/MadeBy-OpenDevCommunity-orange"></a>
+</p>
+<p align="center">
+   <img alt="GitHub issues" src="https://img.shields.io/github/issues/Open-Dev-Community/QrCode-OTP"></a>
+   <img alt="GitHub stars" src="https://img.shields.io/github/stars/Open-Dev-Community/QrCode-OTP"></a>
+   <img alt="Github license" src="https://img.shields.io/github/license/Open-Dev-Community/QrCode-OTP"></a>
+</p>
+<p align = "center">
+    <a href="https://github.com/Open-Dev-Community/QrCode-OTP" alt="Contributors">
+    <img src="https://img.shields.io/github/contributors/Open-Dev-Community/QrCode-OTP"/><a>
+</p>
 
 # Running
 - Clone this repository
