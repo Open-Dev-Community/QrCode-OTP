@@ -1,6 +1,9 @@
 # QrCode-OTP
 <p align = "center">
     <img alt="OpenDevCommunity" src="https://img.shields.io/badge/MadeBy-OpenDevCommunity-orange"></a>
+    <a href="https://github.com/Open-Dev-Community/Tweet_data_hunter" alt="Contributors">
+    <img src="https://img.shields.io/github/contributors/Open-Dev-Community/Tweet_data_hunter"/><a>
+    <img src = "https://github.com/Open-Dev-Community/Basic-Python-Scripts/workflows/Python%20application/badge.svg"/>
 </p>
 <p align="center">
    <img alt="GitHub issues" src="https://img.shields.io/github/issues/Open-Dev-Community/QrCode-OTP"></a>
